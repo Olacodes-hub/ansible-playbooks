@@ -4,8 +4,6 @@
   hosts: all
   become: yes
   become_user: root
-  inventory:  ~/ansible-playbooks/inventory
-
 
 
   tasks:
